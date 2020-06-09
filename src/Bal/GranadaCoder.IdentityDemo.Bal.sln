@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranadaCoder.IdentityDemo.Bal", "GranadaCoder.IdentityDemo.Bal.csproj", "{46545569-1FD5-4B63-9E4B-31F258ECDBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46545569-1FD5-4B63-9E4B-31F258ECDBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46545569-1FD5-4B63-9E4B-31F258ECDBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46545569-1FD5-4B63-9E4B-31F258ECDBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46545569-1FD5-4B63-9E4B-31F258ECDBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
